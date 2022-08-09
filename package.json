@@ -1,0 +1,15 @@
+{
+  "name": "googleapi",
+  "version": "1.0.0",
+  "description": "implement all kind of google api which is nessasary for web application",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"Hello world\");"
+  },
+  "author": "Sankar Bera (Webart Technology pvt ltd)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "expressjs": "^1.0.1"
+  }
+}
